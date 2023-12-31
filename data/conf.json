@@ -19,6 +19,9 @@
     },
     "osm-liberty": {
       "style": "osm-liberty-gl-style/style-local.json"
+    },
+    "dark-matter": {
+      "style": "dark-matter-gl-style/style.json"
     }
   },
   "data": {

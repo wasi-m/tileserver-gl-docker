@@ -4,3 +4,6 @@
 [submodule "data/osm-liberty-gl-style"]
 	path = data/osm-liberty-gl-style
 	url = https://github.com/uedayou/osm-liberty-gl-style.git
+[submodule "data/dark-matter-gl-style"]
+	path = data/dark-matter-gl-style
+	url = https://github.com/openmaptiles/dark-matter-gl-style.git
