@@ -7,3 +7,4 @@
 [submodule "data/dark-matter-gl-style"]
 	path = data/dark-matter-gl-style
 	url = https://github.com/openmaptiles/dark-matter-gl-style.git
+	branch = gh-pages
