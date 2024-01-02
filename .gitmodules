@@ -8,3 +8,7 @@
 	path = data/dark-matter-gl-style
 	url = https://github.com/openmaptiles/dark-matter-gl-style.git
 	branch = gh-pages
+[submodule "data/maptiler-toner-gl-style"]
+	path = data/maptiler-toner-gl-style
+	url = https://github.com/openmaptiles/maptiler-toner-gl-style.git
+	branch = gh-pages

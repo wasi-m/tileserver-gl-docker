@@ -22,6 +22,9 @@
     },
     "dark-matter": {
       "style": "dark-matter-gl-style/style-local.json"
+    },
+    "maptiler-toner-gl-style": {
+      "style": "maptiler-toner-gl-style/style-local.json"
     }
   },
   "data": {
